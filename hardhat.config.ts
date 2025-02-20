@@ -17,6 +17,7 @@ const config: HardhatUserConfig = {
       accounts: [`0x${PRIVATE_KEY}`],
       chainId: 84532,
     },
+    
 
     
   },
